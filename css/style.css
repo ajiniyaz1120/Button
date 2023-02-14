@@ -1,0 +1,11 @@
+@property --d {
+  syntax: "<angle>";
+  inherits: true;
+  initial-value: 0deg;
+}
+button {
+  width: 200px;
+  aspect-ratio: 1;
+  font-size: 30px;
+  color: #fff;
+}/*# sourceMappingURL=style.css.map */
